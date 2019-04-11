@@ -33,13 +33,13 @@ inclusion.
 Using yarn:
 
 ```
-yarn add react-include
+yarn add @rednetio/react-include
 ```
 
 Using npm:
 
 ```
-npm install react-include
+npm intsall @rednetio/react-include
 ```
 
 ## Server Side Include
